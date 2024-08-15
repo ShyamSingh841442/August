@@ -1,1 +1,2 @@
-console.log("Hellow")
+let userInput = prompt("Enter Something...");
+console.log(userInput);
